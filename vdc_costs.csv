@@ -1,0 +1,60 @@
+Invoice Category,Family,Product,CPU,RAM,SKU ,SKU Description,Unit Of Measure,Unit Price
+Compute,General Purpose,Virtual Machine GP Series,1,4,GP1 v1,"General Purpose (1 vCPU, 4 GB RAM) ",Hourly,£0.0654
+Compute,General Purpose,Virtual Machine GP Series,2,8,GP2 v1,"General Purpose (2 vCPU, 8 GB RAM) ",Hourly,£0.0909
+Compute,General Purpose,Virtual Machine GP Series,4,16,GP3 v1,"General Purpose (4 vCPU, 16 GB RAM) ",Hourly,£0.1784
+Compute,General Purpose,Virtual Machine GP Series,6,24,GP4 v1,"General Purpose (6 vCPU, 24 GB RAM) ",Hourly,£0.2603
+Compute,General Purpose,Virtual Machine GP Series,6,32,GP4-2 v1,"General Purpose (6 vCPU, 32GB RAM) ",Hourly,£0.3329
+Compute,General Purpose,Virtual Machine GP Series,8,32,GP5 v1,"General Purpose (8 vCPU, 32 GB RAM) ",Hourly,£0.3567
+Compute,General Purpose,Virtual Machine GP Series,10,40,GP6 v1,"General Purpose (10 vCPU, 40 GB RAM) ",Hourly,£0.3987
+Compute,General Purpose,Virtual Machine GP Series,12,48,GP7 v1,"General Purpose (12 vCPU, 48 GB RAM) ",Hourly,£0.4565
+Compute,General Purpose,Virtual Machine GP Series,16,64,GP8 v1,"General Purpose (16 vCPU, 64 GB RAM) ",Hourly,£0.6611
+Compute,Compute Optimised,Virtual Machine CO Series,32,128,GP9 v1,"General Purpose (32 vCPU, 128 GB RAM) ",Hourly,£1.3221
+Compute,Compute Optimised,Virtual Machine CO Series,1,2,CO1 v1,"Compute Optimised (1 vCPU, 2GB RAM) ",Hourly,£0.0379
+Compute,Compute Optimised,Virtual Machine CO Series,2,4,CO2 v1,"Compute Optimised (2 vCPU, 4GB RAM) ",Hourly,£0.0775
+Compute,Compute Optimised,Virtual Machine CO Series,4,8,CO3 v1,"Compute Optimised (4 vCPU, 8GB RAM) ",Hourly,£0.1522
+Compute,Compute Optimised,Virtual Machine CO Series,6,12,CO4 v1,"Compute Optimised (6 vCPU, 12GB RAM) ",Hourly,£0.2342
+Compute,Compute Optimised,Virtual Machine CO Series,8,16,CO5 v1,"Compute Optimised (8 vCPU, 16GB RAM) ",Hourly,£0.3050
+Compute,Compute Optimised,Virtual Machine CO Series,10,20,CO6 v1,"Compute Optimised (10 vCPU, 20GB RAM) ",Hourly,£0.3368
+Compute,Compute Optimised,Virtual Machine CO Series,12,24,CO7 v1,"Compute Optimised (12 vCPU, 24GB RAM) ",Hourly,£0.4260
+Compute,Compute Optimised,Virtual Machine CO Series,16,32,CO8 v1,"Compute Optimised (16 vCPU, 32GB RAM) ",Hourly,£0.6188
+Compute,Compute Balanced,Virtual Machine MO Series,32,64,CO9 v1,"Compute Optimised (32 vCPU, 64GB RAM) ",Hourly,£1.2030
+Compute,Compute Balanced,Virtual Machine MO Series,1,1,CB1 v1,"Compute Balanced (1 vCPU, 1GB RAM)",Hourly,£0.0292
+Compute,Compute Balanced,Virtual Machine MO Series,2,2,CB2 v1,"Compute Balanced (2 vCPU, 2GB RAM)",Hourly,£0.0482
+Compute,Compute Balanced,Virtual Machine MO Series,4,4,CB3 v1,"Compute Balanced (4 vCPU, 4GB RAM)",Hourly,£0.0995
+Compute,Compute Balanced,Virtual Machine MO Series,6,6,CB4 v1,"Compute Balanced (6 vCPU, 6GB RAM)",Hourly,£0.1367
+Compute,Compute Balanced,Virtual Machine MO Series,8,8,CB5 v1,"Compute Balanced (8 vCPU, 8GB RAM)",Hourly,£0.1888
+Compute,Memory Optimised,Virtual Machine MO Series,1,8,MO1 v1,"Memory Optimised (1 vCPU, 8 GB RAM)",Hourly,£0.0824
+Compute,Memory Optimised,Virtual Machine MO Series,2,16,MO2 v1,"Memory Optimised (2 vCPU, 16 GB RAM)",Hourly,£0.1301
+,Memory Optimised,Virtual Machine MO Series,2,24,MO2-2 v1,"Memory Optimised (2 vCPU, 24 GB RAM)",Hourly,£0.1977
+Compute,Memory Optimised,Virtual Machine MO Series,2,32,MO3 v1,"Memory Optimised (2 vCPU, 32 GB RAM)",Hourly,£0.2654
+Compute,Memory Optimised,Virtual Machine MO Series,2,64,MO4 v1,"Memory Optimised (2 vCPU, 64 GB RAM)",Hourly,£0.3988
+Compute,Memory Optimised,Virtual Machine MO Series,4,32,MO5 v1,"Memory Optimised (4 vCPU, 32 GB RAM)",Hourly,£0.2753
+Compute,Memory Optimised,Virtual Machine MO Series,6,48,MO5-2 v1,"Memory Optimised (6 vCPU, 48 GB RAM)",Hourly,£0.3808
+Compute,Memory Optimised,Virtual Machine MO Series,4,64,MO6 v1,"Memory Optimised (4 vCPU, 64 GB RAM)",Hourly,£0.4521
+Compute,Memory Optimised,Virtual Machine MO Series,4,128,MO7 v1,"Memory Optimised (4 vCPU, 128 GB RAM)",Hourly,£0.7959
+Compute,Memory Optimised,Virtual Machine MO Series,8,64,MO8 v1,"Memory Optimised (8 vCPU, 64 GB RAM)",Hourly,£0.4756
+Compute,Memory Optimised,Virtual Machine MO Series,8,128,MO9 v1,"Memory Optimised (8 vCPU,128 GB RAM)",Hourly,£0.8767
+Compute,Memory Optimised,Virtual Machine MO Series,8,256,MO9-2 v1,"Memory Optimised (8 vCPU,256 GB RAM)",Hourly,£1.3675
+Compute,Memory Optimised,Virtual Machine MO Series,14,256,MO9-3 v1,"Memory Optimised (14 vCPU,256 GB RAM)",Hourly,£1.5110
+Compute,Memory Optimised,Virtual Machine MO Series,16,128,MO10 v1,"Memory Optimised (16 vCPU, 128 GB RAM)",Hourly,£0.9513
+Compute,Memory Optimised,Virtual Machine MO Series,24,192,MO10-2 v1,"Memory Optimised (24 vCPU, 192 GB RAM)",Hourly,£1.4671
+Compute,Memory Optimised,Virtual Machine MO Series,32,256,MO11 v1,"Memory Optimised (32 vCPU, 256 GB RAM)",Hourly,£1.9026
+Licence,Operating System,Mircosoft Windows,,,OS-MSWIN,Microsoft Windows OS  (1 vCPU),Hourly,£0.0089
+Licence,Operating System,Red Hat Enterprise Linux,,,OS-RHEL-SM,Red Hat Enterprise Linux OS - Small (1 -4 vCPU),Hourly,£0.0499
+Licence,Operating System,Red Hat Enterprise Linux,,,OS-RHEL-LG,Red Hat Enterprise Linux OS - Large (> 4 vCPU),Hourly,£0.1080
+,VM Disk,Performance Storage ,,,PERFSTOR,Ultra Storage -1 GB,Hourly,£0.0002
+Storage,VM Disk,Performance Storage ,,,PERFSTOR,Performance Storage -1 GB,Hourly,£0.0002
+Storage,VM Disk,Standard Storage,,,CAPSTOR,Capacity Storage - 1GB,Hourly,£0.0001
+Storage,Backup Storage,Backup Storage,,,BKUP-STOR,Backup Storage -1 GB,Hourly,£0.0000
+Networking,Transit,Internet Bandwidth (Free Quota),,,VDC-INET,Internet Bandwidth (Free Quota),Hourly,£0.0000
+Networking,Transit,Inter-Region Network (Free Quota),,,INREG-TRANSIT,Inter-Region Data Transit (Free Quota),Hourly,£0.0000
+Networking,Network Services,S2S VPN Gateway,,,VPNGWY,S2S VPN Gateway,Hourly,£0.0274
+Networking,Network Services,Load Balancer,,,LB-STANDARD,Standard Load Balancer,Hourly,£0.1370
+Networking,Network Services,Edge Firewall,,,FW-STANDARD,Standard Network Firewall,Hourly,£0.0000
+Networking,Network Services,Public IP Address (1 Free),,,VDC-IP,Free Public IP Address,Hourly,£0.0000
+Networking,Network Services,Public IP Address  ,,,IPADDRESS,Public IP Address,Hourly,£0.0082
+Services,Backup Service,VDC Backup Service - Standard,,,VDC-BCKUP,VDC Backup Service - 1 Protected Server,Hourly,£0.0151
+Services,DR Service,VDC Site Recovery - Standard,,,VDC-DR,VDC Site Recovery - 1 Protected Server,Hourly,£0.0438
+Licence,SQL Server,Microsoft SQL Server Enterprise Core 2 Licence - Corporate,,2,SQL-ENT,Microsoft SQL Server Enterprise Core 2 Licence - Corporate,Hourly,£639.72
+Licence,SQL Server,Microsoft SQL Server Standard Core 2 Licence - Corporate,,2,SQL-STD,Microsoft SQL Server Standard Core 2 Licence - Corporate,Hourly,£169.91
+Licence,SQL Server,Microsoft SQL Server Web Core 2 Licence - Corporate,,2,SQL-WEB,Microsoft SQL Server Web Core 2 Licence - Corporate,Hourly,£10.63
